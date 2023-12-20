@@ -162,6 +162,8 @@ protected void onDestroy() {
     np.stop();
 }
 ```
+## Demo
+[https://cdn.nodemedia.cn/NodeMediaClient/NodeMediaClient-AndroidDemo.zip](https://cdn.nodemedia.cn/NodeMediaClient/NodeMediaClient-AndroidDemo.zip)
 
 ## License
 A commercial license is required.  
